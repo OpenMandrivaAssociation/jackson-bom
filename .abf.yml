@@ -1,2 +1,4 @@
 sources:
+  jackson-bom-2.23.0.tar.gz: 55ab73985fe8e138e31d45d5cf66c0454bf11883
+removed_sources:
   jackson-bom-2.21.8.tar.gz: 0fff5a95c9f1cb63d895fbf9ea6faeb20dc44429
